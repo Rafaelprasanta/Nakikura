@@ -1,5 +1,5 @@
 # Nakikura
-Nakikura Commands
+```Nakikura Commands```
 
 **Utility command** - These commands are just plain useful
 
